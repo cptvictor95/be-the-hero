@@ -1,0 +1,14 @@
+Entidades
+
+-ONG
+-Caso
+
+Funcionalidades
+-Login ONG
+-Logout ONG
+-Cadastro ONG
+-Cadastro Caso
+-Deletar Caso
+-Listar Casos da ONG
+-Listar todos os Casos
+-Contato com ONG
